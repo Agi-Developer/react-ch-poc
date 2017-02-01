@@ -1,0 +1,12 @@
+.search-bar{
+    background-color: #F5F5F5;
+    padding: 10px 0px;
+}
+
+
+.search-icon-link{
+    position: absolute;
+    top: 4px;
+    right: 25px;
+    font-size: 20px;
+}
